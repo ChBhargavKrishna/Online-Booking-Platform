@@ -56,7 +56,7 @@ In this two modules are present They are
 
 ## 💻 Tech Stack
 - Backend: Java, Spring Boot, Spring MVC
-- Database: MySQL
+- Database: Oracle 10g
 - Frontend: JSP / HTML / CSS
 - Authentication: Session-based login
 - Tools: Git, Eclipse / STS
@@ -89,17 +89,15 @@ Repository Layer
 - Only authenticated users can perform booking operations
 - Authorization is enforced at the application level
 
-# 🚀 Get Started
-1. Download the project.  
-2. Open **Spring Tool Suite (STS)**.  
-3. Import the project as a **Maven Project**.  
-4. Make sure **Oracle 10g** is installed and running.  
-5. Update the `application.properties` file with your Oracle DB credentials:
-
-   | **Edit your Oracle DB details** |
-   |-----------------------------|
-   | `spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl` <br> `spring.datasource.username=your_username` <br> `spring.datasource.password=your_password` |
-6. Run the project on SpringBoot App i.e http://localhost:8086/ 
+## 🚀 How to Run the Project
+1. Clone the repository
+2. Import the project as a **Maven Project**.
+3. Configure database credentials in application.properties `application.properties` file with your Oracle DB credentials:
+      | **Edit your Oracle DB details** |
+      |-----------------------------|
+      | `spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl` <br> `spring.datasource.username=your_username` <br> `spring.datasource.password=your_password` |
+4. Run the Spring Boot application
+5. Access the application via browser
 
 ## 📚 Table of Contents
 
@@ -112,7 +110,7 @@ Repository Layer
 - [✍️ Application Flow](#-application-flow)
 - [🧠 Backend Architecture](#-backend-architecture)
 - [🔒 Security](#-security)
-- [🚀 Getting Started](#-get-started)
+- [🚀 to Run Project](#-how-to-run-project)
 - [👤 Author](#-author)
 - [📜 License](#-license)
 
