@@ -112,10 +112,21 @@ Repository Layer
 - [🔒 Security](#-security)
 - [🚀 to Run Project](#-how-to-run-the-project)
 - [👤 Author](#-author)
+- [🔗 Connect Me](-connect-with-me)
 - [📜 License](#-license)
 
 ## 👤 Author
-- **Name:** Chiruvolu Bhargav Krishna
+
+**Chiruvolu Bhargav Krishna**  
+Java Backend / Full Stack Developer  
+
+- 💻 Skilled in **Java, Spring Boot, JSP, SQL, Oracle DB**
+- 🧩 Strong understanding of **MVC architecture & RESTful design**
+- 🚀 Passionate about building **scalable, real-world applications**
+- 📚 Actively improving **DSA & problem-solving skills**
+
+### 🔗 Connect with Me
+
 [![GitHub](https://img.shields.io/badge/GitHub-BhargavKrishna-black?style=for-the-badge&logo=github)](https://github.com/BhargavKrishna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-BhargavKrishna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kbhargav285/)
