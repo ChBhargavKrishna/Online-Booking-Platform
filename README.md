@@ -63,7 +63,7 @@ In this two modules are present They are
 - Dependency Management: Maven.
 - Server: Tomcat 10.1
 
-## Application Flow
+## ✍️ Application Flow
 1. New users must register before accessing the system
 2. Only registered users can log in
 3. Logged-in users can:
@@ -72,7 +72,7 @@ In this two modules are present They are
    - Cancel their own bookings
 4. Unauthenticated users cannot access booking features
 
-## Backend Architecture
+## 🧠 Backend Architecture
 The application follows a layered architecture:
 
 Controller Layer  
@@ -102,7 +102,7 @@ Repository Layer
 ## 📚 Table of Contents
 
 - [📝 Project Overview](#-online-booking-platform-project)
-- [📄 Pages](#-pages-include)
+- [📄 Pages Include](#-pages-include)
 - [📌 Features](#-features)
 - [⚙️ Module Features](#-module-features)
 - [📸 Screenshots](#-admin-module-screenshots)
