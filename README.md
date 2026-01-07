@@ -63,7 +63,7 @@ In this two modules are present They are
 - Dependency Management: Maven.
 - Server: Tomcat 10.1
 
-## ✍️ Application Flow
+## Application Flow
 1. New users must register before accessing the system
 2. Only registered users can log in
 3. Logged-in users can:
@@ -107,7 +107,7 @@ Repository Layer
 - [⚙️ Module Features](#-module-features)
 - [📸 Screenshots](#-admin-module-screenshots)
 - [💻 Tech Stack](#-tech-stack)
-- [✍️ Application Flow](#-application-flow)
+- [✍️ Application Flow](#application-flow)
 - [🧠 Backend Architecture](#-backend-architecture)
 - [🔒 Security](#-security)
 - [🚀 to Run Project](#-how-to-run-the-project)
