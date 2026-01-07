@@ -118,7 +118,7 @@ Repository Layer
 - **Name:** Chiruvolu Bhargav Krishna
 - **GitHub:** [@ChBhargavKrishna](https://github.com/ChBhargavKrishna)
 - **LinkedIn:** [@](https://github.com/ChBhargavKrishna)
-- [![LinkedIn](img.shields.io)](www.linkedin.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
