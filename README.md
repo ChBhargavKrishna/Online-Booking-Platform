@@ -116,9 +116,9 @@ Repository Layer
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
-- **GitHub:** [@ChBhargavKrishna](https://github.com/ChBhargavKrishna)
-- **LinkedIn:** [@](https://github.com/ChBhargavKrishna)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
+[![GitHub](https://img.shields.io/badge/GitHub-BhargavKrishna-black?style=for-the-badge&logo=github)](https://github.com/BhargavKrishna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-BhargavKrishna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kbhargav285/)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
