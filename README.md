@@ -125,7 +125,7 @@ Java Backend / Full Stack Developer
 - 🚀 Passionate about building **scalable, real-world applications**
 - 📚 Actively improving **DSA & problem-solving skills**
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-BhargavKrishna-black?style=for-the-badge&logo=github)](https://github.com/BhargavKrishna)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
