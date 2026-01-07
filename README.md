@@ -1,13 +1,22 @@
-# 🌍 Online Booking System Project
+# 🌍 Online Booking Platform Project
 ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-1.jpeg)
 
-[Online Booking System](https://github.com/ChBhargavKrishna/Online-Booking-System) is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application build with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules. Each module has distinct responsibilities in the project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
+[Online Booking Platform](https://github.com/ChBhargavKrishna/Online-Booking-System) developed using Java and Spring Boot that allows users to register, log in, book slots, and manage their bookings. The application enforces authentication so that only registered users can access booking features. This is a Full Stack web responsive project is made by using SpringBoot, Javascript, Css Jsp.This is a full-stack, responsive web application build with Spring Boot, JSP, and Oracle DB that allows users to book car, flight, and bus tickets. It features two modules — Admin and User — each with its own functionalities and access control. This project has two modules i.e Admin and User Modules. Each module has distinct responsibilities in the project. Best Services also mentioned and taking feedbacks and 24/7 contact support also available.
 
-## 🔑 Key Features
+## Pages Include
 
 | Login Page | Register Page | Admin Dashboard Page | User Dashboard Page |
 | -------| -------| -------| -------|
 | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-2.png) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-3.png) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-4.png) | ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-5.png) |
+
+## 📌 Features
+- User registration and login
+- Authentication-based access to booking features
+- Online booking creation
+- Booking cancellation by users
+- Slot availability management
+- Clean layered backend architecture
+- Form validation and error handling
 
 -----------------------------------------------
 
@@ -45,6 +54,41 @@ In this two modules are present They are
 |--------------| --------------| --------------|  --------------|  
 |  ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-14.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-15.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-16.png)| ![](https://github.com/ChBhargavKrishna/Online-Booking-System/blob/new-branch/Screenshots/Screenshot-17.png) |
 
+## 💻 Tech Stack
+- Backend: Java, Spring Boot, Spring MVC
+- Database: MySQL
+- Frontend: JSP / HTML / CSS
+- Authentication: Session-based login
+- Tools: Git, Eclipse / STS
+- Dependency Management: Maven.
+- Server: Tomcat 10.1
+
+## Application Flow
+1. New users must register before accessing the system
+2. Only registered users can log in
+3. Logged-in users can:
+   - Create new bookings
+   - View their bookings
+   - Cancel their own bookings
+4. Unauthenticated users cannot access booking features
+
+## Backend Architecture
+The application follows a layered architecture:
+
+Controller Layer  
+→ Handles HTTP requests and responses
+
+Service Layer  
+→ Contains business logic and validations
+
+Repository Layer  
+→ Manages database operations using JPA / JDBC
+
+## 🔒 Security
+- Authentication is implemented using login and registration
+- Only authenticated users can perform booking operations
+- Authorization is enforced at the application level
+
 # 🚀 Get Started
 1. Download the project.  
 2. Open **Spring Tool Suite (STS)**.  
@@ -57,25 +101,20 @@ In this two modules are present They are
    | `spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl` <br> `spring.datasource.username=your_username` <br> `spring.datasource.password=your_password` |
 6. Run the project on SpringBoot App i.e http://localhost:8086/ 
 
-### 💻 Tech Stack
-
-- **Backend:** Spring Boot & Java 21.
-- **Database:** Oracle 10g Enterprise Edition Release 10.2.0.1.0.
-- **Dependency Management:** Maven.
-- **Frontend:** JSP, CSS, JavaScript.
-- **Server:** Tomcat 10.1
-- **IDE:** Spring Tool Suite 4.20.0
-
 ## 📚 Table of Contents
 
-- [📝 Project Overview](#-online-booking-system-project)
-- [📌 Key Features](#-key-features)
+- [📝 Project Overview](#-online-booking-platform-project)
+- [📄 Pages](#-pages-include)
+- [📌 Features](#-features)
 - [⚙️ Module Features](#-module-features)
 - [📸 Screenshots](#-admin-module-screenshots)
-- [🚀 Getting Started](#-get-started)
 - [💻 Tech Stack](#-tech-stack)
+- [✍️ Application Flow](#-application-flow)
+- [🧠 Backend Architecture](#-backend-architecture)
+- [🔒 Security](#-security)
+- [🚀 Getting Started](#-get-started)
 - [👤 Author](#-author)
-- [📄 License](#-license)
+- [📜 License](#-license)
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
