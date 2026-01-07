@@ -110,13 +110,15 @@ Repository Layer
 - [✍️ Application Flow](#-application-flow)
 - [🧠 Backend Architecture](#-backend-architecture)
 - [🔒 Security](#-security)
-- [🚀 to Run Project](#-how-to-run-project)
+- [🚀 to Run Project](#-to-run-project)
 - [👤 Author](#-author)
 - [📜 License](#-license)
 
 ## 👤 Author
 - **Name:** Chiruvolu Bhargav Krishna
 - **GitHub:** [@ChBhargavKrishna](https://github.com/ChBhargavKrishna)
+- **LinkedIn:** [@](https://github.com/ChBhargavKrishna)
+- [![LinkedIn](img.shields.io)](www.linkedin.com)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
