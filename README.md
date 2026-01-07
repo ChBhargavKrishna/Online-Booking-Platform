@@ -102,15 +102,15 @@ Repository Layer
 ## 📚 Table of Contents
 
 - [📝 Project Overview](#-online-booking-platform-project)
-- [📄 Pages Include](#-pages-include)
+- [📄 Pages Include](#pages-include)
 - [📌 Features](#-features)
 - [⚙️ Module Features](#-module-features)
 - [📸 Screenshots](#-admin-module-screenshots)
 - [💻 Tech Stack](#-tech-stack)
-- [✍️ Application Flow](#-application-flow)
+- [✍️ Application Flow](#application-flow)
 - [🧠 Backend Architecture](#-backend-architecture)
 - [🔒 Security](#-security)
-- [🚀 to Run Project](#-to-run-project)
+- [🚀 to Run Project](#how-to-run-project)
 - [👤 Author](#-author)
 - [📜 License](#-license)
 
