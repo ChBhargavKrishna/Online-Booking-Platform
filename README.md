@@ -110,7 +110,7 @@ Repository Layer
 - [✍️ Application Flow](#-application-flow)
 - [🧠 Backend Architecture](#-backend-architecture)
 - [🔒 Security](#-security)
-- [🚀 to Run Project](#-how-to-run-project)
+- [🚀 to Run Project](#-how-to-run-the-project)
 - [👤 Author](#-author)
 - [📜 License](#-license)
 
