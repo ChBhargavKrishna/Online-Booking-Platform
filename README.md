@@ -107,10 +107,10 @@ Repository Layer
 - [⚙️ Module Features](#-module-features)
 - [📸 Screenshots](#-admin-module-screenshots)
 - [💻 Tech Stack](#-tech-stack)
-- [✍️ Application Flow](#application-flow)
+- [✍️ Application Flow](#-application-flow)
 - [🧠 Backend Architecture](#-backend-architecture)
 - [🔒 Security](#-security)
-- [🚀 to Run Project](#how-to-run-project)
+- [🚀 to Run Project](#-how-to-run-project)
 - [👤 Author](#-author)
 - [📜 License](#-license)
 
