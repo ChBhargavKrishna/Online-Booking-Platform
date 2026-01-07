@@ -128,11 +128,11 @@ Java Backend / Full Stack Developer
 
 ### 🔗 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-BhargavKrishna-black?style=for-the-badge&logo=github)](https://github.com/BhargavKrishna)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhargav%20Krishna-black?style=for-the-badge&logo=github)](https://github.com/BhargavKrishna)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiruvolu%20Bhargav%20Krishna-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-BhargavKrishna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kbhargav285/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Bhargav%20Krishna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kbhargav285/)
 
 
 ## 📄 License
