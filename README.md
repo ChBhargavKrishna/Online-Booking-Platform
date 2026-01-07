@@ -112,7 +112,7 @@ Repository Layer
 - [🔒 Security](#-security)
 - [🚀 to Run Project](#-how-to-run-the-project)
 - [👤 Author](#-author)
-- [🔗 Connect Me](-connect-with-me)
+- [🔗 Connect with Me](#-connect-with-me)
 - [📜 License](#-license)
 
 ## 👤 Author
@@ -125,12 +125,14 @@ Java Backend / Full Stack Developer
 - 🚀 Passionate about building **scalable, real-world applications**
 - 📚 Actively improving **DSA & problem-solving skills**
 
-## 🔗 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-BhargavKrishna-black?style=for-the-badge&logo=github)](https://github.com/BhargavKrishna)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
+### 🔗 Connect with Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-BhargavKrishna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kbhargav285/)
+[![GitHub](https://img.shields.io/badge/GitHub-BhargavKrishna-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhargavKrishna)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiruvolu%20Bhargav%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiruvolubhargavkrishna/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-BhargavKrishna-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kbhargav285/)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
